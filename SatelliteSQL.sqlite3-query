@@ -1,0 +1,12 @@
+-- database: ./Satellites.db
+
+SELECT * FROM Satellites;
+
+SELECT Primary_Mission, COUNT(*) AS SatelliteMissions
+FROM Satellites
+GROUP BY Primary_Mission;
+
+SELECT Frequency_Band, COUNT(*) AS FrequencyBands
+FROM Satellites
+GROUP BY Frequency_Band;
+
