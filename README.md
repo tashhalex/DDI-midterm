@@ -1,6 +1,6 @@
 # How Satellites Use the Electromagnetic Spectrum
 
-### Objectives
+### Objectives & Motivations
 
 ### Background Information
 
